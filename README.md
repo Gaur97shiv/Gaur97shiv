@@ -65,9 +65,9 @@ A passionate software engineer with **2+ years of experience** building scalable
 
 ## 📫 Connect With Me
 - 📧 Email: **munendrashiv97@gmail.com**
-- 💼 LinkedIn: *(add your link)*
-- 🧑‍💻 GitHub: *(this profile)*
-- 🧠 LeetCode: *(add your link)*
+- 💼 LinkedIn: *https://www.linkedin.com/in/munendra-gaur-a4a7041b4/*
+- 🧑‍💻 X:        *https://x.com/MunendraGa99266*
+- 🧠 LeetCode: *https://leetcode.com/u/munenndragaur/*
 
 ---
 
